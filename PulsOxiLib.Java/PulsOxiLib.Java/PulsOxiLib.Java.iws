@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SpO2-BeTiFlal" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6c16b72-664f-4556-bd5f-cd5a1580caaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PulsOxiLib.Java.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/PulsOxiLib.Java.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PulsOxiLib.Java.iws" beforeDir="false" afterPath="$PROJECT_DIR$/PulsOxiLib.Java.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PulsOxiLib/PulsOxiLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PulsOxiLib/PulsOxiLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PulsOxiLib/src/de/semp/medical/spo2/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/M5_Test-Spezifikation.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/GUI2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/IPatientEmu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/ISpO2Observer$ErrorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/ISpO2Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/SpO2Sensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/SpO2emulated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoxi/semp/SpO2emulated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/build/classes/pulsoximeter/Bilder/Warnsymbol.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/dist/PulsOxi.SEMP.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/GUI2.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/GUI2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/IPatientEmu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/ISpO2Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/SpO2Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoxi/semp/SpO2emulated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorglos Paket/PulsOxi.SEMP/PulsOxi.SEMP/src/pulsoximeter/Bilder/Warnsymbol.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c82wM5iFSv6kmp3DqFZqz8I2Yc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557325947574" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager" selected="Application.GUI_Main">
+    <configuration name="GUI_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-14.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="de.semp.medical.spo2.GUI_Main" />
+      <module name="PulsOxiLib" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Timde\Desktop\Masterprojekt\Software in der Medizin\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.semp.medical.spo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="de.semp.medical.spo2.GUI_Main" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="de.semp.medical.spo2.GUI_Controler" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.semp.medical.spo2.TestMain" />
+      <module name="PulsOxiLib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.semp.medical.spo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI_Main" />
+      <item itemvalue="Application.TestMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI_Main" />
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1557322630254" text="Console.WriteLine" recursive="false" caseInsensitive="true" type="JAVA" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="System.out.println" history="1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c16b72-664f-4556-bd5f-cd5a1580caaa" name="Default Changelist" comment="" />
+      <created>1555322077029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555322077029</updated>
+      <workItem from="1555322083044" duration="955000" />
+      <workItem from="1556614645167" duration="734000" />
+      <workItem from="1556617146208" duration="260000" />
+      <workItem from="1556617613242" duration="5357000" />
+      <workItem from="1556633553639" duration="450000" />
+      <workItem from="1557233567412" duration="4995000" />
+      <workItem from="1557306253751" duration="13085000" />
+      <workItem from="1589896146861" duration="1321000" />
+      <workItem from="1589957534875" duration="2125000" />
+      <workItem from="1591100159402" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Timde/Desktop/Masterprojekt/Software in der Medizin/SpO2 Programm/PulsOxiLib.Java/PulsOxiLib.Java/PulsOxiLib" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1594291239859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594291239859" />
+    <state x="133" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594726327722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="133" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594726327722" />
+    <state x="459" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594285635364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="459" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594285635364" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1594289487324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1594289487324" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594289571604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1594289571604" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594285822420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1594285822420" />
+    <state x="503" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594290557754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1594290557754" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594291231099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594291231099" />
+    <state width="1071" height="204" key="GridCell.Tab.0.bottom" timestamp="1594814880052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1071" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594814880052" />
+    <state width="1071" height="204" key="GridCell.Tab.0.center" timestamp="1594814880052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1071" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594814880052" />
+    <state width="1071" height="204" key="GridCell.Tab.0.left" timestamp="1594814880052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1071" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594814880052" />
+    <state width="1071" height="204" key="GridCell.Tab.0.right" timestamp="1594814880052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1071" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594814880052" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594291041749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594291041749" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594291041749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594291041749" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594291041749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594291041749" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594291041749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594291041749" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1594726064286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594726064286" />
+    <state x="209" y="33" key="new project wizard" timestamp="1594285541891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594285541891" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/PulsOxiLib/src/de/semp/medical/spo2/GUI_Main.java</url>
+          <line>13</line>
+          <properties field="primaryStage" class="de.semp.medical.spo2.GUI_Main" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PulsOxiLib_Java$TestMain.ic" NAME="TestMain Coverage Results" MODIFIED="1594203364914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.semp.medical.spo2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
