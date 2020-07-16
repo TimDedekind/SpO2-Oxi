@@ -1,11 +1,44 @@
-To Do's
--Test Upload and Merge 
+Read Me for User: 
+
+1. Start Application 
+	--> Sensor Emulator is defauld Sensor Source 
+2. Enter valid Thresholds (SpO2=100, Upper_Pulse=100, Lower_Pule=20) 
+	--> no Alarm should occure
+3. Activate Alarm 
+4. Enter not valid Thresholds (SpO2=20, Upper_Pulse=100, Lower_Pule=20)
+ 	--> Spo2 is under Threshold 
+5. Deactivate Alarm 
+	--> no matter which threshold alarm shpuld not accure
+
+
+
+To Do's: 
+- Generate .jar-file 
+- add Comments to Programm 
+- clear up Gui 
+- Add label to Gui 
+- Pascode entry for changing Thresholds, deactivating alarm etc. 
+- Visualisation of Pulse in Graph 
+- Show label if alarm is activated or not 
 
 
 
 Working: 
 
+- activate, deactivate Alarm 
+- Set threshold 
+- Throw alarms 
+- all classes 
+
 
 
 
 Not Working: 
+
+
+
+Not Implemented: 
+
+-Pausing Alarm 
+-Check if Sensor is Connected 
+-Error State od SPO2-Observer

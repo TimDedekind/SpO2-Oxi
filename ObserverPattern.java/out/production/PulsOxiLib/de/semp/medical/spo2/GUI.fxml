@@ -46,7 +46,7 @@
             <TextField fx:id="TfLowerBorderPulse" />
          </children>
       </HBox>
-      <Button fx:id="bSetBorders" layoutX="399.0" layoutY="222.0" mnemonicParsing="false" onAction="#handleSetAlarm" text="Set Alarm" />
+      <Button fx:id="bSetBorders" layoutX="399.0" layoutY="222.0" mnemonicParsing="false" onAction="#handleSetThreshold" text="Set Alarm" />
       <Pane layoutX="24.0" layoutY="48.0" prefHeight="62.0" prefWidth="215.0" />
       <Label fx:id="lAlarm" layoutX="264.0" layoutY="320.0" />
    </children>

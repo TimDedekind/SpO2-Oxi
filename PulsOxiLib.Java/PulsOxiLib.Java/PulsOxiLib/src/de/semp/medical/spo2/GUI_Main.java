@@ -22,6 +22,7 @@ public class GUI_Main extends Application {
         try {
             FXMLLoader loader = new FXMLLoader(GUI_Main.class.getResource("GUI.fxml"));
             AnchorPane pane = loader.load();
+          //  pane.setStyle( "-fx-background-color: #1234F1;" );
 
             primaryStage.setMinHeight(400.00);
             primaryStage.setMinWidth(500.00);

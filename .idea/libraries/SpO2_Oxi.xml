@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SpO2-Oxi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PulseOxiDoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PulsOxiLib.Java.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
